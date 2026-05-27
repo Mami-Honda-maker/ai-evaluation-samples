@@ -82,3 +82,17 @@ Checking whether the meaning matches the intended context.
 - Japanese proofreading
 - Annotation projects
 - Language quality assessment
+  
+---
+
+## Voice & Audio Project Experience
+
+Completed Japanese voice recording and audio-related AI projects including:
+
+- Japanese sentence recording
+- AI speech dataset contribution
+- Audio quality review
+- Machine audit passed projects
+- Voice data collection tasks
+
+Experience includes large-scale Japanese recording projects with quality verification processes.
