@@ -1,5 +1,28 @@
 # AI Evaluation Samples
 
+---
+
+## Quick Access
+
+### Review Samples
+- eLearning AI Translation Review
+- UI Copy Editing Review
+- Japanese Transcription Editing
+
+### Portfolio Files
+- Translation Portfolio PDF
+- Voice Recording Experience
+
+### Skills
+- AI Evaluation
+- Localization QA
+- UI / UX Japanese Review
+- Audio QA
+- Japanese Proofreading
+- Speech Project Experience
+
+---
+
 ## Overview
 
 This repository contains sample evaluations of AI-generated Japanese responses.
